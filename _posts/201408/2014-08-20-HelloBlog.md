@@ -12,4 +12,4 @@ tags:
 ###Hello Blog
 
 第一次在GitHub上使用Blog.
-![1](2.jpg)
+![本地图片](/image/20140820/2.jpg)
